@@ -7,6 +7,3 @@ BQ-B1SE-Plus-flash-v2.6.0-20220110.bin - Original firmware (1M) as Backed up fro
 
 BQ-B1SE-Plus-flash-v2.6.0-20220110.hex - Original firmware (1M) as Backed up from my as delivered printer from BIQU.
 
-BQ-B1SE-Plus-bootloader-v2.6.0-20220110.bin - Original bootloader firmware (1st 32K of flash).
-
-BQ-B1SE-Plus-firmware-v2.6.0-20220110.bin - Next 285K printer firmware.
