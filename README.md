@@ -9,6 +9,6 @@ Note: these files files cannot be flashed by SD Card, use STM STLink V2.
 2. BQ-B1SE-Plus-flash-v2.6.0-20220110.hex - Original firmware (1M) as Backed up from my as delivered printer from BIQU.
 3. BQ-B1SE-Plus-flash-bootloader-v2.6.0.bin - original firmware bootloader (0 to 0x7FFF). 
 
-This file is flashed from SD Card.
+This file is flashed from SD Card and is one version later than on github.com/BIGTREETECH:  
 
 4. BQ-B1SE-Plus-flash-tft35-v2.6.0.bin - original firmware TFT35 code (0x8000
