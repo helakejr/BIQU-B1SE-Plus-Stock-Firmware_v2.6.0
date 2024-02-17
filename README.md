@@ -12,3 +12,4 @@ Note: these files files cannot be flashed by SD Card, use STM STLink V2.
 This file is flashed from SD Card and is one version later than on github.com/BIGTREETECH:  
 
 4. BQ-B1SE-Plus-flash-tft35-v2.6.0.bin - original firmware TFT35 code (0x8000 - 0x47FFF)
+Also use the TFT35.zip contained here. The original was missing several ICONS.
